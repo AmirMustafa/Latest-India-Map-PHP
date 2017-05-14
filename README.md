@@ -36,5 +36,16 @@ Maps are essential part in project for community section. Hope this will help yo
 
 ## Looks
 
+![Screenshot of Latest India Map ](https://cloud.githubusercontent.com/assets/15896579/26038638/77dd53e2-392a-11e7-8079-00617e99103e.png?raw=true "Latest India Map")
+<br/><br/><br/>
+
+![Screenshot of Latest India Map ](https://cloud.githubusercontent.com/assets/15896579/26038639/79f920c0-392a-11e7-9e9c-d0219f7dcb06.png?raw=true "Latest India Map")
+<br/><br/><br/>
+
+![Screenshot of Latest India Map ](https://cloud.githubusercontent.com/assets/15896579/26038641/7cbd34cc-392a-11e7-8636-aa8dbc1f675e.png?raw=true "Latest India Map")
+<br/><br/><br/>
+
+![Screenshot of Latest India Map ](https://cloud.githubusercontent.com/assets/15896579/26038642/7f624adc-392a-11e7-91c0-82171e0daf2d.png?raw=true "Latest India Map")
+<br/><br/><br/>
 
  
